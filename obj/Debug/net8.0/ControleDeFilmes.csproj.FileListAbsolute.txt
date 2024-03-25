@@ -1,0 +1,15 @@
+C:\Users\47034764875\source\repos\ControleDeFilmes\ControleDeFilmes\bin\Debug\net8.0\ControleDeFilmes.exe
+C:\Users\47034764875\source\repos\ControleDeFilmes\ControleDeFilmes\bin\Debug\net8.0\ControleDeFilmes.deps.json
+C:\Users\47034764875\source\repos\ControleDeFilmes\ControleDeFilmes\bin\Debug\net8.0\ControleDeFilmes.runtimeconfig.json
+C:\Users\47034764875\source\repos\ControleDeFilmes\ControleDeFilmes\bin\Debug\net8.0\ControleDeFilmes.dll
+C:\Users\47034764875\source\repos\ControleDeFilmes\ControleDeFilmes\bin\Debug\net8.0\ControleDeFilmes.pdb
+C:\Users\47034764875\source\repos\ControleDeFilmes\ControleDeFilmes\obj\Debug\net8.0\ControleDeFilmes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\47034764875\source\repos\ControleDeFilmes\ControleDeFilmes\obj\Debug\net8.0\ControleDeFilmes.AssemblyInfoInputs.cache
+C:\Users\47034764875\source\repos\ControleDeFilmes\ControleDeFilmes\obj\Debug\net8.0\ControleDeFilmes.AssemblyInfo.cs
+C:\Users\47034764875\source\repos\ControleDeFilmes\ControleDeFilmes\obj\Debug\net8.0\ControleDeFilmes.csproj.CoreCompileInputs.cache
+C:\Users\47034764875\source\repos\ControleDeFilmes\ControleDeFilmes\obj\Debug\net8.0\ControleDeFilmes.sourcelink.json
+C:\Users\47034764875\source\repos\ControleDeFilmes\ControleDeFilmes\obj\Debug\net8.0\ControleDeFilmes.dll
+C:\Users\47034764875\source\repos\ControleDeFilmes\ControleDeFilmes\obj\Debug\net8.0\refint\ControleDeFilmes.dll
+C:\Users\47034764875\source\repos\ControleDeFilmes\ControleDeFilmes\obj\Debug\net8.0\ControleDeFilmes.pdb
+C:\Users\47034764875\source\repos\ControleDeFilmes\ControleDeFilmes\obj\Debug\net8.0\ControleDeFilmes.genruntimeconfig.cache
+C:\Users\47034764875\source\repos\ControleDeFilmes\ControleDeFilmes\obj\Debug\net8.0\ref\ControleDeFilmes.dll
